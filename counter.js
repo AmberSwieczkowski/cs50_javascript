@@ -11,5 +11,6 @@ let counter = 0
     
         document.addEventListener('DOMContentLoaded', function() {
         document.querySelector('button').onclick = count;
+
     });
             
